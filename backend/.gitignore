@@ -26,4 +26,6 @@ yarn-error.log*
 
 /deleted-code.txt
 
+.db
+
 known_faces
